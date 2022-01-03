@@ -12,4 +12,4 @@ embedded-hal = "0.2.2"
 linux-embedded-hal = "0.3"
 nb = "1"
 paho-mqtt = "0.9"
-
+futures = "0.3"
